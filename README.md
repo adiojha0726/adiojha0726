@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adiojha0726
-- 👀 I’m interested in Machine learning, IOT and AI
+- 👀 I’m interested in IOT and AI softwares
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/adarsh-ojha-2607/
